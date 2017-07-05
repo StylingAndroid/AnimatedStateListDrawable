@@ -23,7 +23,7 @@
         android:propertyName="strokeColor"
         android:valueFrom="#1E9618"
         android:valueTo="#A0A0A0"
-        android:valueType="intType" />
+        android:valueType="colorType" />
     </aapt:attr>
   </target>
 </animated-vector>
